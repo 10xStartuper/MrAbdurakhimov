@@ -1,7 +1,7 @@
 # Hello, welcome to my page!
 
 **👨‍💻 I am currently Frontend Developer at "Uni Solve" LLC**
-
+![Banner](https://educator.uz/palma/mrabdurakhimov.png)
 >**Quote:**
 >
 > I like to code and I code to change the world!
