@@ -4,7 +4,7 @@
 **🖤Quote:**
 >I like to code and I code to change the world!
 
-<a href="https://stackexchange.com/users/19863538"><img src="https://stackexchange.com/users/flair/19863538.png" width="208" height="58" alt="profile for Mukhammadyusuf Abdurakhimov on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Mukhammadyusuf Abdurakhimov on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackoverflow.com/users/14551372/mukhammadyusuf-abdurakhimov"><img src="https://stackoverflow.com/users/flair/14551372.png" width="208" height="58" alt="profile for Mukhammadyusuf Abdurakhimov at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mukhammadyusuf Abdurakhimov at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 **📧 Contact me:**
  
