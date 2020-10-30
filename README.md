@@ -8,6 +8,8 @@
  
 Telegram: [@iBlogs_uz](https://t.me/iblogs_uz)
 
+Stackoverflow: [@MrAbdurakhimov](https://stackoverflow.com/cv/mrabdurakhimov)
+
 Instagram: [@Mukhammadyusuf_Abdurakhimov](https://www.instagram.com/mukhammadyusuf_abdurakhimov/)
 
 Email: icoderx@yandex.com
