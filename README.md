@@ -4,8 +4,6 @@
 **🖤Quote:**
 >I like to code and I code to change the world!
 
-<a href="https://stackoverflow.com/users/14551372/mukhammadyusuf-abdurakhimov"><img src="https://stackoverflow.com/users/flair/14551372.png" width="208" height="58" alt="profile for Mukhammadyusuf Abdurakhimov at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mukhammadyusuf Abdurakhimov at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
 **📧 Contact me:**
  
 Telegram: [@iBlogs_uz](https://t.me/iblogs_uz)
