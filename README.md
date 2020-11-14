@@ -17,4 +17,4 @@ Email: icoderx@yandex.com
 
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrabdurakhimov&show_icons=true&theme=react)
+![MrAbdurakhimov's github stats](https://github-readme-stats.vercel.app/api?username=mrabdurakhimov&show_icons=true&theme=react)
