@@ -5,8 +5,7 @@
 >I like to code and I code to change the world!
 
 [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-6495ED?logo=Github)](https://mrabdurakhimov.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:icoderx@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:icoderx@yandex.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrabdurakhimov/)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrabdurakhimov%2Fhit-counter)
 ![Followers](https://img.shields.io/github/followers/mrabdurakhimov)
 ![Stars](https://img.shields.io/github/stars/mrabdurakhimov)
