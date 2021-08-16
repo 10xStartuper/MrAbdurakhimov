@@ -4,15 +4,9 @@
 **🖤Quote:**
 >I like to code and I code to change the world!
 
-**📧 Contact me:**
- 
-Telegram: [@iBlogs_uz](https://t.me/iblogs_uz)
-
-Stackoverflow: [@MrAbdurakhimov](https://stackoverflow.com/cv/mrabdurakhimov)
-
-Instagram: [@Mukhammadyusuf_Abdurakhimov](https://www.instagram.com/mukhammadyusuf_abdurakhimov/)
-
-Email: icoderx@yandex.com
-
-<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mrabdurakhimov" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uz.linkedin.com/in/mrabdurakhimov?trk=profile-badge">Mukhammadyusuf Abdurakhimov</a></div>
+[![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-6495ED?logo=Github)](https://mrabdurakhimov.github.io/)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:icoderx@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrabdurakhimov/)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrabdurakhimov%2Fhit-counter)
+![Followers](https://img.shields.io/github/followers/mrabdurakhimov)
+![Stars](https://img.shields.io/github/stars/mrabdurakhimov)
