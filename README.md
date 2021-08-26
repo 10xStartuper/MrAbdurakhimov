@@ -9,3 +9,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrabdurakhimov/)
 ![Followers](https://img.shields.io/github/followers/mrabdurakhimov)
 ![Stars](https://img.shields.io/github/stars/mrabdurakhimov)
+
+
+
+<hr>
+
+
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
