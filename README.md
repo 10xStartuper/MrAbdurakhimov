@@ -15,4 +15,4 @@
 <hr>
 
 
-![Snake animation](https://raw.githubusercontent.com/MrAbdurakhimov/MrAbdurakhimov/main/github-user-contribution.svg)
+![Snake animation](https://github.com/MrAbdurakhimov/MrAbdurakhimov/blob/main/github-user-contribution.svg)
