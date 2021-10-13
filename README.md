@@ -15,4 +15,4 @@
 <hr>
 
 
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/MrAbdurakhimov/MrAbdurakhimov/main/github-user-contribution.svg)
