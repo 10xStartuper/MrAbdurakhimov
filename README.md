@@ -1,6 +1,6 @@
 # Hello, welcome to my page!
 ![Banner](https://raw.githubusercontent.com/MrAbdurakhimov/MrAbdurakhimov/main/mrabdurakhimov.png)
-### 👨🏻‍💻 I am currently Junior SoftWare Engineer at @EPAM-SYSTEMS
+### 👨🏻‍💻 I am currently SoftWare Engineer at @EPAM-SYSTEMS
 **🖤Quote:**
 >I like to code and I code to change the world!
 
