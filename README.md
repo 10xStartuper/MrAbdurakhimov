@@ -14,6 +14,8 @@
 
 ## Skills
 
+Here are list of the skills I have experience with.
+
 ### FrontEnd
   - HTML5
   - CSS3
