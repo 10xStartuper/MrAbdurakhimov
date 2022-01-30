@@ -7,12 +7,4 @@
 [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-6495ED?logo=Github)](https://mrabdurakhimov.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:icoderx@yandex.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrabdurakhimov/)
-![Followers](https://img.shields.io/github/followers/mrabdurakhimov)
 ![Stars](https://img.shields.io/github/stars/mrabdurakhimov)
-
-
-
-<hr>
-
-
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
