@@ -25,6 +25,8 @@ Here are list of the skills I have experience with.
   - Parcel
   - Webpack
   - ReactJS
+  - Styled Components
+  - MUI
   - Redux
   - NextJS
   - etc.
