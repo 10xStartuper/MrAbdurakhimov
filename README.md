@@ -1,7 +1,49 @@
 # Welcome!
 
-![Banner](https://raw.githubusercontent.com/MrAbdurakhimov/MrAbdurakhimov/main/mrabdurakhimov.png)
+> The standards behind my objective in life are never stopping to develop and keeping my skills updated with the most recent advances in Technology.
+> I'm extremely enthusiastic about what I do because we, Software Engineers, assemble and convey new innovations that can make the world a superior spot for humankind.
+> Inspired to make changes happen.
 
-## 👨🏻‍💻 19 y.o. Self-taught Software Engineer from Uzbekistan
+## About me
 
-Builfding next unicorn!
+- 19/20 y.o. Self-taught Software Engineer from Uzbekistan
+- Currently working at [@EPAM](https://github.com/epam)
+- Avid Reader
+- Fast Learner
+- Collage dropout
+
+## Skills
+
+### FrontEnd
+  - HTML5
+  - CSS3
+  - JavaScript (ES6)
+  - TypeScript
+  - JQuery
+  - Parcel
+  - Webpack
+  - ReactJS
+  - Redux
+  - NextJS
+  - etc.
+### Backend
+  - Nodejs
+  - Express
+  - JavaScript
+  - TypeScript
+  - Mikro-ORM
+  - MongoDB/Mongoose  
+  - PostgreSQL
+  - GraphQL
+  - MVC Pattern
+  - etc.
+### Mobile(novice):
+  - React-Native
+  - Expo 
+### UI/UX Design
+  - Figma
+  - Adobe XD
+  - Prototyping
+  - Wireframing
+  - Product developmnent
+  - etc.
