@@ -39,7 +39,7 @@ Here are list of the skills I have experience with.
   - Webpack
   - ReactJS
   - React Router
-  - Styled-Components
+  - Styled-components
   - Material UI
   - Redux
   - NextJS
