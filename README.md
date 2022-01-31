@@ -9,7 +9,7 @@
 - 19/20 y.o. Self-taught Software Engineer from Uzbekistan
 - Currently working at [@EPAM](https://github.com/epam)
 - Avid Reader
-- Fast Learner
+- Innovator
 - Collage dropout
 
 ## Skills
@@ -17,20 +17,26 @@
 Here are list of the skills I have experience with.
 
 ### FrontEnd
+
   - HTML5
   - CSS3
+  - SaSS
+  - Bootstrap[4/5]
   - JavaScript (ES6)
   - TypeScript
   - JQuery
   - Parcel
   - Webpack
   - ReactJS
-  - Styled Components
-  - MUI
+  - React Router
+  - Styled-Components
+  - Material UI
   - Redux
   - NextJS
   - etc.
+
 ### Backend
+
   - Nodejs
   - Express
   - JavaScript
@@ -41,10 +47,14 @@ Here are list of the skills I have experience with.
   - GraphQL
   - MVC Pattern
   - etc.
+
 ### Mobile(novice):
+
   - React-Native
   - Expo 
+
 ### UI/UX Design
+
   - Figma
   - Adobe XD
   - Prototyping
