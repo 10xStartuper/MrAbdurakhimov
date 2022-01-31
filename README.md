@@ -39,11 +39,9 @@ Here are list of the skills I have experience with.
   - Parcel
   - Webpack
   - ReactJS
-  - React Router
+  - React Router DOM
   - Styled-components
   - Material UI
-  - Redux
-  - NextJS
   - etc.
 </details>
 
