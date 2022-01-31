@@ -27,7 +27,7 @@ Here are list of the skills I have experience with.
   <summary>
     FrontEnd
   </summary>
-
+  <br/>
   - HTML5
   - CSS3
   - SaSS
