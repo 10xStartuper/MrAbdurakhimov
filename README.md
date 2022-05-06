@@ -31,17 +31,19 @@ Here are list of the skills I have experience with.
   <br/>
   - HTML5
   - CSS3
-  - SaSS
+  - SASS
   - Bootstrap[4/5]
+  - JQuery
   - JavaScript (ES6)
   - TypeScript
-  - JQuery
   - Parcel
   - Webpack
   - ReactJS
+  - NextJS
   - React Router DOM
   - Styled-components
   - Material UI
+  - Tailwindcss
   - etc.
 </details>
 
