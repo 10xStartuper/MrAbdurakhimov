@@ -84,3 +84,12 @@ Here are list of the skills I have experience with.
   - Product developmnent
   - etc.
 </details>
+
+📈 **My GitHub Stats:**
+
+<div display="flex">
+  <p>
+    <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=mrabdurakhimov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gotham" />
+    <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrabdurakhimov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
+  </p>
+</div>
