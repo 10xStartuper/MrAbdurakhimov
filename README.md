@@ -23,7 +23,6 @@ Inspired to make changes happen.
 - Currently working at [@EPAM](https://github.com/epam)
 - Avid Reader
 - Innovator
-- Collage dropout
 
 </details>
 
