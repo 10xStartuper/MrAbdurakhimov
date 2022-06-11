@@ -1,3 +1,5 @@
+<img src="https://github.com/MrAbdurakhimov/MrAbdurakhimov/blob/main/img/card.png?raw=true"/>
+
 # Welcome!
 
 > The standards behind my objective in life are never stopping to develop and keeping my skills updated with the most recent advances in Technology.
