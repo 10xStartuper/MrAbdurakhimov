@@ -19,7 +19,7 @@ Inspired to make changes happen.
    </summary>
   <br/>
   
-- 20 y.o. Self-taught Software Engineer from Uzbekistan
+- 20 y.o. Software Engineer from Uzbekistan
 - [exEPAM](https://github.com/epam)
 - Avid Reader
 - Innovator
